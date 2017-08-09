@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>学爬坡儿的喵</title>
+  <title>Eugene&#39;s Notes</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-07T01:35:08.664Z</updated>
+  <updated>2017-08-09T07:19:55.958Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>YanyanZhao</name>
+    <name>Eugene</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HTML5 Canvas 绚丽的小球详解</title>
+    <link href="http://yoursite.com/2017/08/09/HTML5-Canvas-%E7%BB%9A%E4%B8%BD%E7%9A%84%E5%B0%8F%E7%90%83%E8%AF%A6%E8%A7%A3/"/>
+    <id>http://yoursite.com/2017/08/09/HTML5-Canvas-绚丽的小球详解/</id>
+    <published>2017-08-09T07:10:50.000Z</published>
+    <updated>2017-08-09T07:19:55.958Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Canvas" scheme="http://yoursite.com/categories/Canvas/"/>
+    
+    
+      <category term="HTML5" scheme="http://yoursite.com/tags/HTML5/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
